@@ -18,6 +18,8 @@ history less
 
 #This command prints out history
 history
+
+#This is a command that takes you to the parent directory of the present directory.
 cd ...
 cd Applications/
 cd ..
