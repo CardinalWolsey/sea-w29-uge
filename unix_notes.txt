@@ -21,6 +21,10 @@ history
 
 #This is a command that takes you to the parent directory of the present directory.
 cd ...
+
+#This is a command that shows hidden files.
+ls -a
+
 cd Applications/
 cd ..
 cd /
