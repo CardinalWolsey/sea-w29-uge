@@ -1,0 +1,210 @@
+# this stands for present working directory
+pwd
+
+#this stands for change directory
+cd
+
+#man stands for manual.  This command specifically is asking for the manual for the program less
+man less
+
+#clear does just that.  It clears the screen
+clear
+
+#This is a nifty one.  Piping!  It takes the output from history and puts it into the program less
+history | less
+
+#I fucked this one up.  It returned an error.
+history less
+
+#This command prints out history
+history
+cd ...
+cd Applications/
+cd ..
+cd /
+ls /
+ls ~
+cd My\ Tableau\ Repository/
+ls
+cd Documents/
+docu
+spencercaldwell/
+..
+../../..
+Tempest\ Audiobook/
+Audio\ Books/ iTunes/
+Music/
+musi
+ls -l
+Applications/
+LS
+cd "Box Documents/"
+man ls
+cd ~
+ls -R
+ls -Sl
+ls -S
+ls -u
+ls u
+ls man
+ls -ltr
+ls -rl
+ls -lt
+ls -t
+cd /Applications/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email
+git config --global user.email 'spencer.caldwell@gmail.com'
+git config --global user.name
+git config --global user.name 'Spencer Caldwell'
+git --version
+which git
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+which fish
+which fi
+which f
+echo $shell
+$shell
+brew doctor
+brew update
+git config --global user.email spencer.caldwell@gmail.com
+git config --global user.name CardinalWolsey
+git config --global user.email 'YOUR EMAIL ADDRESS'clear
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+subl /etc/paths
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+find / -name "php*"
+ps -m
+ps -a
+./configure --enable-module=most
+./configure --enable-so
+cd httpd-2.4.10
+cd desktop
+./configure --help
+cd httpd-2.2.29
+cd httpd-2.4.10.1
+cd httpd-d.4.10 2
+sudo ln -s /applications/xcode.app/contents/developer/toolchains/xcodedefault/xctoolcha
+cd httpd-24.4.10
+cd httpd_2.4.10
+cd http-2.4.10
+rm -r /Library/Frameworks/Mono.framework
+killall Finder
+defaults write com.apple.finder AppleShowAllFiles -bool false
+defaults write com.apple.finder AppleShowAllFiles -bool true
+clear
+ls -l moving_around.txt
+ls -lt
+ls moving_around.txt
+subl moving_around.txt
+ls -t
+less moving_around.txt
+ls
+history > moving_around.txt
+pwd
+cd
+man less
+history | less
+history less
+history
+cd ...
+cd Applications/
+cd ..
+cd /
+ls /
+ls ~
+cd My\ Tableau\ Repository/
+cd Documents/
+docu
+spencercaldwell/
+..
+../../..
+Tempest\ Audiobook/
+Audio\ Books/ iTunes/
+Music/
+musi
+ls -l
+Applications/
+LS
+cd "Box Documents/"
+man ls
+cd ~
+ls -R
+ls -Sl
+ls -S
+ls -u
+ls u
+ls man
+ls -ltr
+ls -rl
+cd /Applications/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email
+git config --global user.email 'spencer.caldwell@gmail.com'
+git config --global user.name
+git config --global user.name 'Spencer Caldwell'
+git --version
+which git
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+brew info fish
+which fish
+which fi
+which f
+echo $shell
+$shell
+brew doctor
+brew update
+git config --global user.email spencer.caldwell@gmail.com
+git config --global user.name CardinalWolsey
+git config --global user.email 'YOUR EMAIL ADDRESS'clear
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+subl /etc/paths
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+find / -name "php*"
+ps -m
+ps -a
+./configure --enable-module=most
+./configure --enable-so
+cd httpd-2.4.10
+cd desktop
+./configure --help
+cd httpd-2.2.29
+cd httpd-2.4.10.1
+cd httpd-d.4.10 2
+sudo ln -s /applications/xcode.app/contents/developer/toolchains/xcodedefault/xctoolcha
+cd httpd-24.4.10
+cd httpd_2.4.10
+cd http-2.4.10
+rm -r /Library/Frameworks/Mono.framework
+killall Finder
+defaults write com.apple.finder AppleShowAllFiles -bool false
+defaults write com.apple.finder AppleShowAllFiles -bool true
