@@ -1,3 +1,44 @@
+#this checks to see what branch of git we are on
+git branch
+
+#switches from a branch of git to the git-notes branch of git
+git checkout git-notes
+
+#creates the git branch called git-notes
+git branch git-notes
+
+#looks at the committs that have been made to a git branch
+git log
+
+clear
+
+#looks at the specific line by line changes that were made to a file
+git diff --staged
+
+#This is what it looks like when one makes a committ
+git commit -m "I both added the ls -a command and described the command in a comment."
+
+#This checkes to see whether files have been staged or committed
+git status
+
+#This is the command to stage the file
+git add unix_notes.txt
+
+#This opened the file in sublime text for editing
+subl unix_notes.txt
+git commit -m "Describe a command taking the user to the parent directory."
+ls
+cd uge_workshop/
+cd
+git commit -m "Add initial version of unix notes."
+status
+cd ..
+cd .git
+ls -a
+git init
+ls uge_workshop/
+
+
 # this stands for present working directory
 pwd
 
